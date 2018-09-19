@@ -1,0 +1,14 @@
+{
+  "compileNamespace": "window.LINGUI_CATALOG",
+  "fallbackLocale": "en",
+  "sourceLocale": "en",
+  "localeDir": "<rootDir>/locale",
+  "srcPathDirs": [
+      "<rootDir>"
+  ],
+  "srcPathIgnorePatterns": [
+      "/node_modules/",
+      "/.next/",
+  ],
+  "format": "minimal"
+}

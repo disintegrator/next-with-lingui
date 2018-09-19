@@ -1,0 +1,6 @@
+{
+  "description": "This is a demo of Lingui in Next.js",
+  "form.name.label": "Enter your name",
+  "form.name.placeholder": "Your name",
+  "greeting": "Hello {name}"
+}

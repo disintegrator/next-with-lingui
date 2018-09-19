@@ -1,0 +1,31 @@
+{
+  "name": "next-with-lingui",
+  "version": "1.0.0",
+  "description": "A Next.js project that uses lingui for i18n",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "lingui:extract": "lingui extract --clean",
+    "lingui:compile": "lingui compile"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@lingui/react": "^2.7.0",
+    "next": "^7.0.0",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.0",
+    "@lingui/cli": "^2.7.0",
+    "@lingui/loader": "^2.7.0",
+    "@lingui/macro": "^2.7.0",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-plugin-macros": "^2.4.1",
+    "raw-loader": "^0.5.1"
+  }
+}
