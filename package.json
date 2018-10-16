@@ -15,17 +15,17 @@
   "license": "MIT",
   "dependencies": {
     "@lingui/react": "^2.7.0",
-    "next": "^7.0.0",
+    "next": "^7.0.2",
     "react": "^16.5.2",
     "react-dom": "^16.5.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.1.0",
+    "@babel/core": "^7.1.2",
     "@lingui/cli": "^2.7.0",
     "@lingui/loader": "^2.7.0",
     "@lingui/macro": "^2.7.0",
     "babel-core": "^7.0.0-bridge.0",
-    "babel-plugin-macros": "^2.4.1",
+    "babel-plugin-macros": "^2.4.2",
     "raw-loader": "^0.5.1"
   }
 }
