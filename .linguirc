@@ -1,5 +1,5 @@
 {
-  "compileNamespace": "window.LINGUI_CATALOG",
+  "compileNamespace": "cjs",
   "fallbackLocale": "en",
   "sourceLocale": "en",
   "localeDir": "<rootDir>/locale",
