@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "@lingui/react": "^2.7.0",
-    "next": "^7.0.2",
+    "next": "^9.3.3",
     "react": "^16.5.2",
     "react-dom": "^16.5.2"
   },
